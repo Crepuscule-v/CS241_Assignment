@@ -1,6 +1,6 @@
 # CS241-FinalAssignment
 
-`启发式算法` `禁忌搜索`
+<font color = red> 启发式算法<\font>  `禁忌搜索`
 ## Function
 
 - [x] 随机生成子图
