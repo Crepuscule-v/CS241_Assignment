@@ -1,0 +1,12 @@
+*.txt
+record/
+SubGraph/
+TestGraph/
+小数据/
+大数据/
+clean
+clean.cpp
+Sub
+main
+GraphGenerating
+.vscode/
