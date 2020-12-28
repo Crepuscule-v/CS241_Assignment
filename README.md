@@ -9,4 +9,4 @@
 - [x] 不合并子图, 计算任意两点的最短路径
 
 ## More (From ftc)
-> :link: [**Checker With GUI**](https://github.com/fangtiancheng/checker)
+> :link: [` Checker With GUI`](https://github.com/fangtiancheng/checker)
