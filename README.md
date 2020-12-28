@@ -8,5 +8,5 @@
 - [x] 不合并子图, 找出某一点可达的所有结点
 - [x] 不合并子图, 计算任意两点的最短路径
 
-## 相关
-> **Checker With GUI** [:link:](https://github.com/fangtiancheng/checker)
+## 相关 (From FTC)
+> :link: [**Checker With GUI**](https://github.com/fangtiancheng/checker)
